@@ -1,0 +1,6 @@
+[submodule "bot"]
+	path = bot
+	url = git@github.com:battleshipbot/bot.git
+[submodule "bridge"]
+	path = bridge
+	url = git@github.com:battleshipbot/bridge.git
