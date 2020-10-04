@@ -6,6 +6,8 @@ services:
       dockerfile: Dockerfile
     links:
       - bridge
+    env_file:
+      - .env
   bridge:
     build:
       context: bridge
