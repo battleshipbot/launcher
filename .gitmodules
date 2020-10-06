@@ -4,3 +4,6 @@
 [submodule "bridge"]
 	path = bridge
 	url = git@github.com:battleshipbot/bridge.git
+[submodule "database-manager"]
+	path = database-manager
+	url = git@github.com:battleshipbot/database-manager.git
